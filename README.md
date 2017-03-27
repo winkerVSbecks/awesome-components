@@ -13,7 +13,7 @@ A collection of awesome things related to UI components (React/Angular/VueJS/etc
 - [Components by Brent Jackson](http://jxnblk.com/writing/posts/components)
 
 
-### Examples of Good APIs
+### Examples of Good APIs
 
 - [Rebass](http://jxnblk.com/rebass)
 - [Shoutem UI Toolkit](http://shoutem.github.io/docs/ui-toolkit/components/typography)
