@@ -1,4 +1,4 @@
-# Awesome Functional CSS
+# Awesome Components
 
 A collection of awesome things related to UI components (React/Angular/VueJS/etc).
 
