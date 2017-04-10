@@ -2,7 +2,7 @@
 A collection of awesome things related to UI components (React/Angular/VueJS/etc).
 
 
-### Types of Components and Component Hierarchy
+### Types of Components and Component Hierarchy 🌲
 
 - [React Component Patterns](https://www.youtube.com/watch?v=YaZg8wg39QQ) by Michael Chan
 - [React Patterns](http://reactpatterns.com)
@@ -13,7 +13,7 @@ A collection of awesome things related to UI components (React/Angular/VueJS/etc
 - [React Bits](https://vasanthk.gitbooks.io/react-bits/?q=component)
 
 
-### Higher Order Components ⚡️
+### Higher Order Components 🍬
 - [Andrew Clark - Recomposing your React application](https://www.youtube.com/watch?v=zD_judE-bXk)
 
 
@@ -22,6 +22,6 @@ A collection of awesome things related to UI components (React/Angular/VueJS/etc
 - [Andrew Clark - Recomposing your React application (perf section)](https://www.youtube.com/watch?v=zD_judE-bXk&feature=youtu.be&t=19m10s)
 
 
-### Examples of Good APIs
+### Examples of Good APIs 💖
 - [Rebass](http://jxnblk.com/rebass)
 - [Shoutem UI Toolkit](http://shoutem.github.io/docs/ui-toolkit/components/typography)
