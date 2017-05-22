@@ -25,3 +25,6 @@ A collection of awesome things related to UI components (React/Angular/VueJS/etc
 ### Examples of Good APIs 💖
 - [Rebass](http://jxnblk.com/rebass)
 - [Shoutem UI Toolkit](http://shoutem.github.io/docs/ui-toolkit/components/typography)
+
+### Misc
+- [Lin Clark - A Cartoon Intro to Fiber](https://www.youtube.com/watch?v=ZCuYPiUIONs)
