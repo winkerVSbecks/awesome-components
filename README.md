@@ -13,6 +13,7 @@ A collection of awesome things related to UI components (React/Angular/VueJS/etc
 
 
 ### Higher Order Components & Composition 🍬
+- [Single Responsibility Components](https://www.youtube.com/watch?v=pSdp92Up8O8)
 - [Andrew Clark - Recomposing your React application](https://www.youtube.com/watch?v=zD_judE-bXk)
 - [Patterns for Style Composition in React](http://jxnblk.com/writing/posts/patterns-for-style-composition-in-react) by Brent Jackson
 - [Flattening Deep Hierarchies of Components](http://varun.ca/flattening-deep-hierarchies-of-components/)
